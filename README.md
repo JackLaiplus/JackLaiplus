@@ -4,7 +4,13 @@
 
 ## 技能
 
-- 🌱 I’m currently learning ...
+- 作業系統類：Ubuntu、Windows
+- 程式設計類：
+- 資料視覺化：
+- 網頁技術類：
+- 資料庫設計類：MySQL
+- 神經網路類：
+- 自然語言處理:
 
 <!--
 **JackLaiplus/JackLaiplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
