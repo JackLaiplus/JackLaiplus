@@ -1,10 +1,10 @@
-## 關於 JACKLAi
+# 關於 JACKLAi
 
-- 🌱 I’m currently learning ...
+- 💬 Ask me about ..
 
 ## 技能
 
-
+- 🌱 I’m currently learning ...
 
 <!--
 **JackLaiplus/JackLaiplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
