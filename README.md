@@ -8,6 +8,7 @@
 - 程式設計：C、C++、Java、Python、SQL
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
+- 資料探勘：
 - 深度學習：PyTorch、Keras
 - 自然語言處理：
 - 資料視覺化：Flask、Streamlit
