@@ -7,7 +7,7 @@
 - 作業系統類：Ubuntu、Windows
 - 程式設計類：C、C++、Java、Python、SQL
 - 資料分析與機器學習：
-- 資料視覺化：streamlit
+- 資料視覺化：Flask、streamlit
 - 網頁技術類：HTML、CSS、JavaScript
 - 資料庫系統：MySQL
 
