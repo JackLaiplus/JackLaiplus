@@ -4,7 +4,8 @@
 
 ## 技能
 
-- 作業系統：Ubuntu、Windows、Docker
+- 作業系統：Ubuntu、Windows
+- ：Docker
 - 程式設計：C、C++、Java、Python、SQL
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
