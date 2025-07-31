@@ -4,7 +4,8 @@
 
 ## 技能
 
-- 作業系統：Android、Windows、Ubuntu、Docker
+- 作業系統：<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/b12f342e-683a-44a2-93c8-43426844885e" />
+Android、Windows、Ubuntu、Docker
 - 程式設計：C、C++、Java、Python、SQL
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
