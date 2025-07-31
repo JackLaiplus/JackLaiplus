@@ -10,10 +10,11 @@
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
 - 資料探勘：
 - 深度學習：PyTorch、Keras
-- 自然語言處理：
 - 資料視覺化：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
 - 資料庫系統：MySQL
+- 🌱 I’m currently learning ...
+- - 自然語言處理：
 
 <!--
 **JackLaiplus/JackLaiplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
