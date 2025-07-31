@@ -8,13 +8,13 @@
 - 程式設計：C、C++、Java、Python、SQL
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
+- 資料探勘：
 - 深度學習：PyTorch、Keras
+- 自然語言處理：Transformer（I’m currently learning ...）
 - 資料視覺化：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
 - 資料庫系統：MySQL
-- 🌱 I’m currently learning ...
-  - 資料探勘：
-  - 自然語言處理：Transformer
+
 
 <!--
 **JackLaiplus/JackLaiplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
