@@ -2,6 +2,8 @@
 
 - 傳播學與電機工程背景
 
+## 傳播學技能
+
 ## 技能
 
 - 作業系統：Android、Windows、Ubuntu、Docker
