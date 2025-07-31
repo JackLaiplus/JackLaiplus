@@ -12,7 +12,6 @@
 - 資料視覺化：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
 - 資料庫系統：MySQL
-
 - 🌱 I’m currently learning ...
   - 資料探勘：
   - 自然語言處理：
