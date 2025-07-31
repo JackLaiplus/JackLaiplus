@@ -9,8 +9,7 @@
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
 - 資料探勘：
-- 深度學習：PyTorch、Keras  
-  <span style="color:red">(I’m currently learning ...)</span>
+- 深度學習：PyTorch、Keras 🔴 (I’m currently learning...)
 - 自然語言處理：Transformer（I’m currently learning ...）
 - 資料視覺化：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
