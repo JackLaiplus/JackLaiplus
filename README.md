@@ -5,7 +5,7 @@
 ## 技能
 
 - 作業系統：Embedded Linux System、Android、Windows、Ubuntu、Docker
-- 資料庫系統：MySQL
+- 資料庫系統：MySQL、
 - 程式設計：C、C++、Java、Python、SQL、
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
