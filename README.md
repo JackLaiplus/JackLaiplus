@@ -9,7 +9,7 @@
 - Databases：MySQL、**PostgreSQL（I’m currently learning ...）**、
 - Programming Languages：C、C++、Java、Python、SQL、
 - Data Collection：Requests、BeautifulSoup、Selenium 
-- 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
+- Data Analysis and Machine Learning：NumPy、Pandas、Matplotlib、Scikit-learn
 - 資料探勘：**（I’m currently learning ...）**
 - 深度學習：**PyTorch、Keras（I’m currently learning ...）**
 - 自然語言處理：**Transformer（I’m currently learning ...）**
