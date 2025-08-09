@@ -13,7 +13,7 @@
 - **Data Mining**：（I’m currently learning ...）
 - **Deep Learning**：PyTorch、Keras（I’m currently learning ...）
 - **Natural Language Processing (NLP)**：Transformer（I’m currently learning ...）
-- 資料視覺化：Flask、Streamlit
+- **Data Visualization**：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
 
 
