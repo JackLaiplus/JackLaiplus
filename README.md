@@ -12,7 +12,7 @@
 - **Data Analysis and Machine Learning**：NumPy、Pandas、Matplotlib、Scikit-learn
 - **Data Mining**：（I’m currently learning ...）
 - **Deep Learning**：PyTorch、Keras（I’m currently learning ...）
-- 自然語言處理：**Transformer（I’m currently learning ...）**
+- **Natural Language Processing (NLP)**：Transformer（I’m currently learning ...）
 - 資料視覺化：Flask、Streamlit
 - 網頁技術：HTML、CSS、JavaScript
 
