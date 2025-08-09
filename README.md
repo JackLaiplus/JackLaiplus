@@ -5,7 +5,7 @@
 
 ## Technical Skills
 
-- ** Operating Systems **：Embedded Linux System、Android、Windows、Ubuntu、Docker
+- **Operating Systems**：Embedded Linux System、Android、Windows、Ubuntu、Docker
 - Databases：MySQL、**PostgreSQL（I’m currently learning ...）**、
 - Programming Languages：C、C++、Java、Python、SQL、
 - Data Collection：Requests、BeautifulSoup、Selenium 
