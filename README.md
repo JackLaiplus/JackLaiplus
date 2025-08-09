@@ -1,4 +1,4 @@
-# 關於 JACKLAi
+# About JACKLAi
 
 - Interdisciplinary background in Communication Studies and Electrical Engineering
 - 傳播學與電機工程背景
