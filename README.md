@@ -3,7 +3,7 @@
 - Interdisciplinary background in Communication Studies and Electrical Engineering
 - 傳播學與電機工程背景
 
-## 技能
+## Technical Skills
 
 - 作業系統：Embedded Linux System、Android、Windows、Ubuntu、Docker
 - 資料庫系統：MySQL、**PostgreSQL（I’m currently learning ...）**、
