@@ -14,7 +14,7 @@
 - **Deep Learning**：PyTorch、Keras（I’m currently learning ...）
 - **Natural Language Processing (NLP)**：Transformer（I’m currently learning ...）
 - **Data Visualization**：Flask、Streamlit
-- 網頁技術：HTML、CSS、JavaScript
+- **Web Technologies**：HTML、CSS、JavaScript
 
 
 <!--
