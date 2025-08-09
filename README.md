@@ -1,6 +1,7 @@
 # About JACKLAi — Developer Profile
 
 - Interdisciplinary background in Communication Studies and Electrical Engineering
+- 傳播學和電機工程背景
 
 ## Technical Skills
 
