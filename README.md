@@ -7,7 +7,7 @@
 
 - Operating Systems：Embedded Linux System、Android、Windows、Ubuntu、Docker
 - Databases：MySQL、**PostgreSQL（I’m currently learning ...）**、
-- 程式設計：C、C++、Java、Python、SQL、
+- Programming Languages：C、C++、Java、Python、SQL、
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
 - 資料探勘：**（I’m currently learning ...）**
