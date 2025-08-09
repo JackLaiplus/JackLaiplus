@@ -6,7 +6,7 @@
 ## Technical Skills
 
 - Operating Systems：Embedded Linux System、Android、Windows、Ubuntu、Docker
-- 資料庫系統：MySQL、**PostgreSQL（I’m currently learning ...）**、
+- Databases：MySQL、**PostgreSQL（I’m currently learning ...）**、
 - 程式設計：C、C++、Java、Python、SQL、
 - 資料蒐集：Requests、BeautifulSoup、Selenium 
 - 資料分析與機器學習：NumPy、Pandas、Matplotlib、Scikit-learn
