@@ -11,7 +11,7 @@
 - **Data Collection**：Requests、BeautifulSoup、Selenium 
 - **Data Analysis and Machine Learning**：NumPy、Pandas、Matplotlib、Scikit-learn
 - **Data Mining**：（I’m currently learning ...）
-- **Deep Learning**：PyTorch、Kera
+- **Deep Learning**：PyTorch、keras
 - **Natural Language Processing (NLP)**：Transformer（I’m currently learning ...）
 - **Data Visualization**：Flask、Streamlit
 - **Web Technologies**：HTML、CSS、JavaScript
