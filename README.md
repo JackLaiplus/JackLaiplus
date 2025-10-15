@@ -12,7 +12,7 @@
 - **Data Analysis and Machine Learning**：NumPy、Pandas、Matplotlib、Scikit-learn
 - **Data Mining**：NumPy、Pandas、Matplotlib、Scikit-learn
 - **Deep Learning**：PyTorch、Transformer、keras
-- **Natural Language Processing (NLP)**：
+- **Natural Language Processing (NLP)**：jieba、nltk、opencc、wordcloud、gensim
 - **Data Visualization**：Flask、Streamlit
 - **Web Technologies**：HTML、CSS、JavaScript
 
