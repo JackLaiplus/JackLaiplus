@@ -10,9 +10,9 @@
 - **Programming Languages**：C、C++、Java、Python、SQL、
 - **Data Collection**：Requests、BeautifulSoup、Selenium 
 - **Data Analysis and Machine Learning**：NumPy、Pandas、Matplotlib、Scikit-learn
-- **Data Mining**：（I’m currently learning ...）
-- **Deep Learning**：PyTorch、keras
-- **Natural Language Processing (NLP)**：Transformer（I’m currently learning ...）
+- **Data Mining**：
+- **Deep Learning**：PyTorch、Transformer、keras
+- **Natural Language Processing (NLP)**：
 - **Data Visualization**：Flask、Streamlit
 - **Web Technologies**：HTML、CSS、JavaScript
 
