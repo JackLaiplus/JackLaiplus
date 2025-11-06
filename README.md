@@ -1,4 +1,4 @@
-# About JACKLAi — Developer Profile
+# About JACK LAi — Developer Profile
 
 - Interdisciplinary background in Communications Studies and Electrical Engineering
 - 傳播學和電機工程背景
