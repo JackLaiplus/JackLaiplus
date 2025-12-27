@@ -1,6 +1,9 @@
 # About CHIH-CHUN LAI
 
 - Interdisciplinary background in Communications Studies and Electrical Engineering
+
+- ![Profile views](https://komarev.com/ghpvc/?username=JackLaiplus&color=blue)
+
   
 <!--
 ## Technical Skills
