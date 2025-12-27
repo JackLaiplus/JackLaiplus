@@ -2,6 +2,7 @@
 
 - Interdisciplinary background in Communications Studies and Electrical Engineering
 
+![訪客統計](https://komarev.com/ghpvc/?username=JackLaiplus&label=Visitors&color=0e75b6&style=flat)
 
 <!--
 - ![Profile views](https://komarev.com/ghpvc/?username=JackLaiplus&color=blue)
