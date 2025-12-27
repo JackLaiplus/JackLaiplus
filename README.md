@@ -2,12 +2,11 @@
 
 - Interdisciplinary background in Communications Studies and Electrical Engineering
 
+
+<!--
 - ![Profile views](https://komarev.com/ghpvc/?username=JackLaiplus&color=blue)
 - ![Profile views](https://komarev.com/ghpvc/?username=JackLaiplus&label=Visitors&color=green&style=flat)
 
-
-  
-<!--
 ## Technical Skills
 
 - **Operating Systems**：Embedded Linux System、Android、Windows、Ubuntu、Docker
